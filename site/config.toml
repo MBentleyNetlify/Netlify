@@ -1,6 +1,7 @@
 BaseUrl= "/"
 languageCode        = "en-us"
 title               = "Hire This Guy!"
+theme               = "casper"
 paginate = 5
 # DisqusShortname = "YOUR_SHORT_NAME_HERE"
 Copyright = ""
