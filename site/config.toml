@@ -39,14 +39,14 @@ paginate = 10
 
 		copyright = [
 			"&copy; Marvin Bentley II",
-			"Template Design: [HTML5 UP](//html5up.net)",
+			"Theme Design: [HTML5 UP](//html5up.net)",
 		]
 
 
 	[params.about]
 		hide  = false
-		title = "Ipsum lorem dolor aliquam ante commodo magna sed accumsan arcu neque."
-		content = "Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia."
+		title = "Marvin Bentley's Take Home Exercise for the Support Engineer Position at Netlify"
+		content = "**Thanks for stopping in! The purpose of this site is to answer the following questions:** <br><br>Rank your 5 favorite, and least favorite, activities from this list: https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6 <br><br>What is your favorite thing about providing technical support? <br><br>What did you think of our service during the time you used it?  Be honest!  'it sucked' isn't a wrong answer unless you don't elaborate and provide some constructive criticism ;) <br><br>Tell about how you made your site and why you chose the tools you did.  Briefly explain a challenge you experienced in setting up this site and how you solved it. <br><br>Could you give us a suggestion to improve this test or the job posting? <br><br>Provide a link to documentation for a technical/developer-focused product, that you think are well done, and briefly explain why you think they are well done. <br><br>Why do you think SSL/HTTPS is important? <br><br>Explain, in a couple of paragraphs, what you think 2 major challenges around DNS configuration are for less-technical internet end-users <br><br>A customer writes in saying their 'site won't build'.  Compose your best short (2-paragraph) customer-facing answer without any additional data, that could be useful in the generic case but would also lead to a customer providing a more actionable response. <br><br>(optional/bonus) Can you set up a redirect from '/netlify/anything' to https://www.google.com/search?q=anything ? <br><br>**Each of the above questions is answered in a dedicated blog post on this site.**"
 
 
 	[params.portfolio]
@@ -96,12 +96,12 @@ paginate = 10
 		title = "Recent blog posts"
 
 	[params.contact]
-		hide  = false
+		hide  = true
 		title = "Get In Touch"
-		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
+		content = "I look forward to speaking with you soon!"
 
 		address = [
-			"Brattleboro Road",
+			"1 Starting Gate Ln",
 			"Hinsdale, NH 03451",
 			"United States"
 		]
