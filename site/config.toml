@@ -33,14 +33,13 @@ paginate = 10
 		gitlab = "truevox"
 		dribbble = ""
 		facebook = "truevox"
-		googleplus = "truevox"
+		googleplus = "marvinbentleyii"
 		flickr = ""
-		linkedin = "marvinbentleyii"
+		linkedin = ""
 
 		copyright = [
 			"&copy; Marvin Bentley II",
-			"Design: [HTML5 UP](//html5up.net)",
-			"Demo Images: [Unsplash](//unsplash.com/)"
+			"Template Design: [HTML5 UP](//html5up.net)",
 		]
 
 
@@ -135,6 +134,11 @@ paginate = 10
 	name = "Home"
 	url  = "/"
 	weight = 0
+	
+[[menu.main]]
+    name = "About"
+    url  = "about"
+    weight = 5
 
 [[menu.main]]
 	name = "Blog"

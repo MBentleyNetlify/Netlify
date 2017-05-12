@@ -1,8 +1,8 @@
 +++
-author = ""
+author = "Marvin Bentley II"
 comments = true
 date = "2017-05-11T22:41:27-04:00"
-draft = true
+# draft = true
 image = ""
 menu = ""
 share = true
