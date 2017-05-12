@@ -1,0 +1,2 @@
+#Redirect file for question number 10 (yay over achieving!)
+/netlify/*             https://www.google.com/search?q=:splat
