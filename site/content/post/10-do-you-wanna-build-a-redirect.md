@@ -4,6 +4,7 @@ categories = []
 date = "2017-05-12T01:49:09-04:00"
 tags = []
 author = "Marvin Bentley II"
+slug = "do-you-wanna-build-a-snowma-i-mean-redirect"
 title = "Do you wanna build a redirect"
 
 +++
@@ -12,8 +13,8 @@ Wow, this actually was a really fun final problem. Not sure if my solution was t
 
 However, to not pen another essay, I'll get right to the task given: 
 
-## (optional/bonus) Can you set up a redirect from “/netlify/anything” to https://www.google.com/search?q=anything ?
-
+### (optional/bonus) Can you set up a redirect from “/netlify/anything” to https://www.google.com/search?q=anything ?
+<br>
 I give you: 
 
 https://hire-marvin.bentleyfamily.us/netlify/anything
@@ -22,9 +23,9 @@ https://hire-marvin.bentleyfamily.us/netlify/everything
 
 https://hire-marvin.bentleyfamily.us/netlify/and+all+the+things+in+between
 
-Oh, and check out my band (or not, but can I have credit for it working? :D):
+Oh, and check out my band (or not, but can I have credit for it working in the context of this assignment? :D):
 
 https://hire-marvin.bentleyfamily.us/netlify/https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0fLRMU-khK8
 
 ## In closing...
-Thank you very much for the assignment - this was great experience! I excited to speak with you further!
+Thank you very much for the assignment - this was great experience! I am excited to speak with you further.
